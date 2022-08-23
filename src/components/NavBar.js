@@ -6,11 +6,11 @@ export const NavBar = () => {
   return (
     <Navbar bg="light" variant="light">
         <Container>
-          <Navbar.Brand href="#home">Name</Navbar.Brand>
+          <Navbar.Brand href="/">Name</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#projects">Project</Nav.Link>
-            <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/projects">Project</Nav.Link>
+            <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
