@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-To install configs
+To install configs, you can run:
 
 ### `npm install package.json`
 
