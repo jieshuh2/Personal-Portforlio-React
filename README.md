@@ -11,7 +11,7 @@ To install configs
 ### `npm install package.json`
 
 ## Home Page
-![alt text](https://github.com/jieshuh2/Personal-Portforlio-React/blob/master/home.png?raw=true)
+![alt text](https://github.com/jieshuh2/Personal-Portforlio-React//blob/master/src/demo/home.png?raw=true)
 
 ## Project Page
 
