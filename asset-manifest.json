@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Personal-Portforlio-React/static/css/main.438563c8.css",
-    "main.js": "/Personal-Portforlio-React/static/js/main.dd4e7a2b.js",
+    "main.js": "/Personal-Portforlio-React/static/js/main.b54bc14b.js",
     "static/media/smiling.png": "/Personal-Portforlio-React/static/media/smiling.11e0ab35c252a67ce66b.png",
     "index.html": "/Personal-Portforlio-React/index.html",
     "main.438563c8.css.map": "/Personal-Portforlio-React/static/css/main.438563c8.css.map",
-    "main.dd4e7a2b.js.map": "/Personal-Portforlio-React/static/js/main.dd4e7a2b.js.map"
+    "main.b54bc14b.js.map": "/Personal-Portforlio-React/static/js/main.b54bc14b.js.map"
   },
   "entrypoints": [
     "static/css/main.438563c8.css",
-    "static/js/main.dd4e7a2b.js"
+    "static/js/main.b54bc14b.js"
   ]
 }
