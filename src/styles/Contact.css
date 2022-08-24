@@ -13,6 +13,9 @@
   .information {
     margin-top: 100px;
   }
+  .information h2 {
+    font-size: 60px;
+  }
   
   .socialMedia svg {
     color: white;

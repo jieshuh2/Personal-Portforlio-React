@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import { ProjectList } from "../helpers/ProjectList";
+import { ProjectList } from "./ProjectList";
 import "../styles/ProjectDisplay.css";
 
 function ProjectDisplay() {
@@ -11,7 +11,8 @@ function ProjectDisplay() {
       <h1> {project.name}</h1>
       <img src={project.image} />
       <p>
-        <b>Description:</b> {project.description}
+        <b>Description: </b>
+        {project.description}
       </p>
     </div>
   );

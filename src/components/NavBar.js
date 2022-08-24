@@ -6,7 +6,7 @@ export const NavBar = () => {
   return (
     <Navbar bg="light" variant="light">
         <Container>
-          <Navbar.Brand href="/">Name</Navbar.Brand>
+          <Navbar.Brand href="/">Your Name</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/projects">Projects</Nav.Link>

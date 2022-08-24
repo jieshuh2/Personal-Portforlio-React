@@ -8,7 +8,7 @@
   }
   .projects .projectTitle {
     text-align: center;
-    color: #3e497a;
+    color: #00020b;
     font-size: 60px;
     font-weight: bolder;
   }
@@ -20,8 +20,6 @@
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
   }
-  
-  /* MENU ITEM STYLING */
   
   .projectItem {
     border-radius: 15px;
