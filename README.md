@@ -2,13 +2,13 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
 To install configs, you can run:
 
 ### `npm install package.json`
+
+In the project directory, you can run:
+
+### `npm start`
 
 ## Home Page
 ![alt text](https://github.com/jieshuh2/Personal-Portforlio-React/blob/master/src/demo/Home.png?raw=true)
